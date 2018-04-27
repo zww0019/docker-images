@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/heapster-amd64:v1.5.2
+FROM k8s.gcr.io/heapster-amd64:v1.4.2
 MAINTAINER ZWW
