@@ -1,0 +1,2 @@
+FROM docker.io/istio/mixer:0.7.1
+MAINTAINER ZWW
